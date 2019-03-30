@@ -1,0 +1,96 @@
+.itemThings{
+  height: 500px;
+  position: relative;
+}
+#flexCar1{
+  height: 300px;
+  width: 500px;
+  background-image: url('../car1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#flexCar2{
+  height: 300px;
+  width: 500px;
+  background-image: url('../car2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.nameThings{
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 10%;
+  font-size: 30px;
+  font-weight: bold;
+}
+main{
+  height: 700px;
+}
+li{
+  list-style-type: none;
+}
+.testItem{
+  float: left;
+  width: 500px;
+  height: 300px;
+  background: tomato;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.textInfo{
+  width: 700px;
+  height: 400px;
+  float: left;
+  margin-left: 3%;
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 2%;
+  background: whitesmoke;
+}
+
+.textInfo ul{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.textInfo li{
+  margin-bottom: 10px;
+}
+.textInfo li h3{
+  font-weight: 400;
+}
+.green{
+  color: green;
+}
+.orange{
+  color: orange;
+}
+.red{
+  color: red;
+}
+.infostats2{
+  position: absolute;
+  margin-top: -180px;
+  margin-left: 15%;
+}
+.service{
+  height: 500px;
+  position: relative;
+}
+.service1,
+.service2,
+.service3,
+.service4{
+  margin-top: 10px;
+  float: left;
+  width: 300px;
+  height: 400px;
+  border: 1px solid black;
+  margin-right: 5%;
+}
+.textService{
+  margin-left: 10%;
+}
