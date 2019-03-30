@@ -33,12 +33,24 @@
   display: flex;
   justify-content: space-between;
 }
-.type{
+table{
+  width: 100%;
+}
+tr{
+  width: 100%;
+}
+td{
+  text-align: center;
+  height: 100px;
+  table-layout: fixed;
+  width: 25%;
+}
+/*.type{
   margin-left: 5%;
 }
 .time{
   margin-right: 5%;
-}
+}*/
 .car h2{
   color: white;
 
