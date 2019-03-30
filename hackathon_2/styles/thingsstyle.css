@@ -51,19 +51,33 @@ tr{
   height: 100px;
   width: 100%;
   margin-bottom: 100px;
+  position: relative;
+}
+.type{
+  width: 10%;
+}
+.id{
+  width: 10%;
+}
+.stat{
+  width: 25%;
+}
+.time{
+  width: 10%;
+}
+.model{
+  width: 30%;
+}
+.info{
+  width: 15%;
 }
 td{
   text-align: center;
   height: 100px;
   table-layout: fixed;
-  width: 25%;
+  position: relative;
 }
-.car a{
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  display: block;
-}
+
 .car h2{
   color: white;
 
