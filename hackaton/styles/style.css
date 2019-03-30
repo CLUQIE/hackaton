@@ -55,7 +55,7 @@ nav a:hover{
 #flexCar1{
   height: 200px;
   width: 300px;
-  background-image: url('car1.png');
+  background-image: url('../images/car1.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -63,7 +63,7 @@ nav a:hover{
 #flexCar2{
   height: 200px;
   width: 300px;
-  background-image: url('car2.jpg');
+  background-image: url('../images/car2.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -71,7 +71,7 @@ nav a:hover{
 #flexCar3{
   height: 200px;
   width: 300px;
-  background-image: url('car3.jpg');
+  background-image: url('../images/car3.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -79,7 +79,7 @@ nav a:hover{
 #flexCar4{
   height: 200px;
   width: 300px;
-  background-image: url('car4.jpg');
+  background-image: url('../images/car4.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -87,7 +87,7 @@ nav a:hover{
 #flexCar5{
   height: 200px;
   width: 300px;
-  background-image: url('car5.jpg');
+  background-image: url('../images/car5.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
