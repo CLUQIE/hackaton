@@ -22,20 +22,34 @@ header{
 }
 nav{
   border-left: 2px solid white;
+  width: 100%;
+  height: 100%;
 }
 .addThings{
-  margin-top: 20%;
-  margin-left: 10%;
+  margin-left: 3%;
+  margin-top: 20px;
   outline: 0;
   border: 0;
   background: transparent;
   color: white;
   font-size: 20px;
   transition: 0.2s;
+  float: left;
 }
 .addThings:hover{
   color: silver;
   transition: 0.2s;
+}
+.formAdd{
+
+}
+.formAdd input{
+  border: 0;
+  outline: 0;
+  height: 18px;
+  float: left;
+  margin-top: 22px;
+  margin-left: 10px;
 }
 .profil img{
   width: 50px;
