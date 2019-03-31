@@ -1,0 +1,74 @@
+.contentProfil{
+  display: flex;
+  height: 100vh;
+  color: white;
+}
+.leftProfil{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.nameCar{
+  margin-top: 5%;
+  width: 700px;
+  height: 50px;
+  font-size: 30px;
+}
+.imagesCar{
+  width: 700px;
+  height: 500px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.imagesCar img{
+  width: 700px;
+  height: 500px;
+}
+.infoCar{
+  margin-top: 5%;
+  width: 700px;
+  height: 200px;
+}
+.infoCar ul{
+  margin-top: 2%;
+}
+.infoCar li{
+  list-style-type: ;
+  margin-left: 3%;
+  font-size: 20px;
+}
+.rightProfil{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.infoRightCar{
+  width: 500px;
+  height: 600px;
+  position: relative;
+  margin-top: 5%;
+}
+.infoRightCar h2{
+  font-size: 30px;
+  height: 50px;
+}
+.statusName{
+  width: 50%;
+  text-align: center;
+}
+.statusCar{
+  width: 50%;
+  text-align: center;
+}
+.infoRight{
+  font-size: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  height: 80px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}

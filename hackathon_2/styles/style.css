@@ -23,20 +23,17 @@ header{
 nav{
   border-left: 2px solid white;
 }
-nav ul{
-  display: flex;
-  margin-left: 20px;
-  margin-top: 23px;
-}
-nav li{
-  list-style-type: none;
-  margin-right: 10px;
-}
-nav a{
-  text-decoration: none;
+.addThings{
+  margin-top: 20%;
+  margin-left: 10%;
+  outline: 0;
+  border: 0;
+  background: transparent;
   color: white;
+  font-size: 20px;
+  transition: 0.2s;
 }
-nav a:hover{
+.addThings:hover{
   color: silver;
   transition: 0.2s;
 }
